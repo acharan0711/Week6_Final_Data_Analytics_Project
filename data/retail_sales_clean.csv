@@ -1,0 +1,41 @@
+Order_ID,Date,Customer_ID,Product,Category,Region,Quantity,Unit_Price,Discount,Sales
+ORD1001,2025-01-01,C016,Laptop,Electronics,West,5,60000,0.0,300000
+ORD1002,2025-01-03,C037,Monitor,Electronics,South,4,30000,0.0,120000
+ORD1003,2025-01-05,C015,Smartphone,Electronics,North,3,45000,0.05,128250
+ORD1004,2025-01-07,C009,Office Chair,Furniture,East,2,55000,0.0,110000
+ORD1005,2025-01-09,C032,Keyboard,Accessories,West,5,5000,0.0,25000
+ORD1006,2025-01-11,C021,Printer,Office Equipment,South,3,15000,0.05,42750
+ORD1007,2025-01-13,C004,Headphones,Accessories,North,4,25000,0.1,90000
+ORD1008,2025-01-15,C028,Office Desk,Furniture,West,2,15000,0.0,30000
+ORD1009,2025-01-17,C011,Laptop,Electronics,East,2,60000,0.0,120000
+ORD1010,2025-01-19,C034,Scanner,Office Equipment,South,3,18000,0.0,54000
+ORD1011,2025-01-21,C019,Smartphone,Electronics,North,4,45000,0.05,171000
+ORD1012,2025-01-23,C007,Mouse,Accessories,West,5,2500,0.0,12500
+ORD1013,2025-01-25,C023,Office Chair,Furniture,South,3,55000,0.1,148500
+ORD1014,2025-01-27,C014,Monitor,Electronics,East,2,30000,0.0,60000
+ORD1015,2025-01-29,C039,Laptop,Electronics,North,1,60000,0.0,60000
+ORD1016,2025-02-01,C005,Printer,Office Equipment,West,4,15000,0.05,57000
+ORD1017,2025-02-03,C027,Headphones,Accessories,South,3,25000,0.0,75000
+ORD1018,2025-02-05,C018,Office Desk,Furniture,East,4,15000,0.0,60000
+ORD1019,2025-02-07,C031,Smartphone,Electronics,West,2,45000,0.1,81000
+ORD1020,2025-02-09,C012,Office Chair,Furniture,North,1,55000,0.0,55000
+ORD1021,2025-02-11,C026,Laptop,Electronics,South,3,60000,0.05,171000
+ORD1022,2025-02-13,C003,Keyboard,Accessories,East,5,5000,0.0,25000
+ORD1023,2025-02-15,C035,Monitor,Electronics,West,3,30000,0.05,85500
+ORD1024,2025-02-17,C020,Scanner,Office Equipment,North,2,18000,0.0,36000
+ORD1025,2025-02-19,C008,Smartphone,Electronics,South,1,45000,0.0,45000
+ORD1026,2025-02-21,C029,Laptop,Electronics,East,4,60000,0.1,216000
+ORD1027,2025-02-23,C017,Headphones,Accessories,West,2,25000,0.0,50000
+ORD1028,2025-02-25,C040,Office Chair,Furniture,South,2,55000,0.05,104500
+ORD1029,2025-02-27,C006,Printer,Office Equipment,North,5,15000,0.0,75000
+ORD1030,2025-03-01,C024,Monitor,Electronics,East,4,30000,0.0,120000
+ORD1031,2025-03-03,C013,Laptop,Electronics,West,2,60000,0.0,120000
+ORD1032,2025-03-05,C033,Mouse,Accessories,South,4,2500,0.0,10000
+ORD1033,2025-03-07,C010,Office Desk,Furniture,North,3,15000,0.1,40500
+ORD1034,2025-03-09,C022,Smartphone,Electronics,East,3,45000,0.05,128250
+ORD1035,2025-03-11,C036,Headphones,Accessories,West,5,25000,0.05,118750
+ORD1036,2025-03-13,C002,Scanner,Office Equipment,South,2,18000,0.0,36000
+ORD1037,2025-03-15,C025,Laptop,Electronics,North,3,60000,0.0,180000
+ORD1038,2025-03-17,C038,Office Chair,Furniture,East,4,55000,0.1,198000
+ORD1039,2025-03-19,C001,Monitor,Electronics,West,2,30000,0.0,60000
+ORD1040,2025-03-21,C030,Printer,Office Equipment,South,1,15000,0.0,15000
